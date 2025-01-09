@@ -1,0 +1,22 @@
+# Каталоги IDEA (PyCharm)
+.idea/
+*.iml
+/out/
+
+# Файлы системы контроля версий
+.vscode/
+
+# Папка venv для виртуальных окружений Python
+venv/
+.venv/
+
+# Логи
+*.log
+
+# Пояснения к файлам
+__pycache__/
+
+# Другие временные файлы
+.DS_Store
+Thumbs.db
+/.gitignore
