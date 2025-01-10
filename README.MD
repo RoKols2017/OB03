@@ -29,7 +29,7 @@
 1. Клонируйте репозиторий на ваш локальный компьютер:
 
     ```bash
-    git clone https://github.com/your-username/zoo-management.git
+    git clone https://github.com/RoKols2017/OB03.git
     ```
 
 2. Перейдите в директорию проекта:
